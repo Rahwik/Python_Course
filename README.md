@@ -1,2 +1,2 @@
 # Python_Course
-learened myself an dgiving to all
+learned myself and giving to all
